@@ -1,0 +1,31 @@
+_repo: Second-SightA-study-of-Natural-and-Induced-Clairvoyance_26633
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sepharial
+    aliases:
+    - Old, Walter Gorn
+    - Gorn-Old, Walter
+    birthdate: 1864
+    deathdate: 1929
+    gutenberg_agent_id: '32128'
+    url: http://www.gutenberg.org/2009/agents/32128
+    wikipedia: http://en.wikipedia.org/wiki/Sepharial
+description: ''
+gutenberg_issued: '2008-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Clairvoyance'
+- !lcsh 'Precognition'
+title: 'Second Sight: A study of Natural and Induced Clairvoyance'
+url: http://www.gutenberg.org/ebooks/26633
